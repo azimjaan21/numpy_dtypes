@@ -1,4 +1,7 @@
+![azimjaan21](https://github.com/user-attachments/assets/5d59c1c9-6bdd-49a3-a123-6dcac3303a5d)
+https://linktr.ee/azimjaantech
 
+-------------------------------------------------
 **Understanding dtype and astype in NumPy**
 
 ![a9eb8501f3b190e9ac1c3878caf2dcaf-0](https://github.com/user-attachments/assets/5188f205-98c1-4d0a-918d-1ecd6bf016e9)

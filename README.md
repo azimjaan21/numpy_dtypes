@@ -1,5 +1,5 @@
 ![azimjaan21](https://github.com/user-attachments/assets/5d59c1c9-6bdd-49a3-a123-6dcac3303a5d)
-https://linktr.ee/azimjaantech
+☘️LinkTree: https://linktr.ee/azimjaantech
 
 -------------------------------------------------
 **Understanding dtype and astype in NumPy**
